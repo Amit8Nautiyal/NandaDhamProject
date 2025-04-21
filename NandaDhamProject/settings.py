@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'nandatemple.apps.NandatempleConfig',
+    'Uffraidevitemple.apps.UffraidevitempleConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
